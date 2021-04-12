@@ -1,0 +1,4 @@
+*	auto=text
+
+*.sln	text eol=crlf
+*.cs	text eol=crlf

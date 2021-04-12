@@ -1,0 +1,22 @@
+# .gitignore for TheLongDarkAutoBackup project
+
+
+.vs/
+.vscode/
+
+
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.pyproj
+*.pyproj.user
+
+# resource files
+*.log
+*.jpg
+*.psd
+*.ogg
+*.mp3
+*.aps
+*.rc
