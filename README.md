@@ -1,5 +1,8 @@
 ![OwO](https://ameliepick.ml/assets/img/projects/TLD/wall.jpg)
 
+![GitHub all releases](https://img.shields.io/github/downloads/AmeliePick/TheLongDarkAutoBackup/total?style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/AmeliePick/TheLongDarkAutoBackup?style=for-the-badge)
+
 # About
 This program does auto backup of The Long Dark saves. It's helpful, if
 you don't want to lose your saves while playing in survival mode. Because in the survival
