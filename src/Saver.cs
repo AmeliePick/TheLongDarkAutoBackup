@@ -226,20 +226,20 @@ namespace TheLongDarkAutoBackup
                 Console.WriteLine("[!]The game is working without auto backups. Fix the value and restart it.[!]", Console.ForegroundColor);
             }
 
+            gameProcess.Exited += (object sender, EventArgs e) =>
+            {
+                UpdateBackup();
+            };
 
-            while (gameProcess.Responding)
+
+            while (!gameProcess.HasExited)
             {
                 UpdateBackup();
 
                 int wakeUpTime = (DateTime.Now.Minute + AutoBackupTimer) % 60;
-                while (DateTime.Now.Minute != wakeUpTime)
+                while (DateTime.Now.Minute < wakeUpTime && !gameProcess.HasExited)
                 {
-                    if(gameProcess.HasExited)
-                    {
-                        UpdateBackup();
-                        return;
-                    }
-                    continue;
+                    System.Threading.Thread.Sleep(1000);
                 }
             }
         }
