@@ -19,7 +19,7 @@ mode the game is removing the save file if you dead.
 
 + In "Settings.ini" you can manage the time for auto backuping and specify a folder for backups.
 
-For sure, to launch the game and backup start this program not the game itself. OwO
+To launch the game with autobackup start this program not the game itself.
 
 # Requirements
 + .Net Framework 4.8
@@ -27,4 +27,4 @@ For sure, to launch the game and backup start this program not the game itself. 
 ***
 
 
-**Copyright © 2021 AmeliePick.**
+**Copyright © 2022 AmeliePick.**
