@@ -1,4 +1,4 @@
-Copyright © 2021 AmeliePick.
+Copyright © 2022 AmeliePick.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), perpetual use, copy, modify, publish, distribute the Software, except for the merger, sublicense and / or sale of copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
