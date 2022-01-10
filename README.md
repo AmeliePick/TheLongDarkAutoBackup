@@ -1,4 +1,4 @@
-![OwO](https://ameliepick.ml/assets/img/projects/TLD/wall.jpg)
+![OwO](https://user-images.githubusercontent.com/43295585/148769097-4a13b571-3cc7-490f-89a0-64413f64addc.jpg)
 
 ![GitHub all releases](https://img.shields.io/github/downloads/AmeliePick/TheLongDarkAutoBackup/total?style=for-the-badge)
 ![GitHub last commit](https://img.shields.io/github/last-commit/AmeliePick/TheLongDarkAutoBackup?style=for-the-badge)
